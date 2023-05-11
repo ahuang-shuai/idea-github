@@ -5,5 +5,6 @@ public class Test01 {
         System.out.println("hot-fix分支");
         System.out.println("master测试合并冲突");
         System.out.println("hot-fix测试合并冲突");
+        System.out.println("pull test");
     }
 }
